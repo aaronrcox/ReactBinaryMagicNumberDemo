@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactBinaryMagicNumberDemo/precache-manifest.0190660cff0d2e0414b5de1a0942e5d6.js"
+  "/ReactBinaryMagicNumberDemo/precache-manifest.98d745a1a0d48d1ad46114da16caa60e.js"
 );
 
 self.addEventListener('message', (event) => {
